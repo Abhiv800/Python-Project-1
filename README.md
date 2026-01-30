@@ -22,3 +22,12 @@ Along the way, I had a few issues here and there with the code as I was changing
 
 This way, I understood that coding takes time to build and fix errors along the way. I documented my Python tasks; this helps me to reflect on myself and what could have gone better. I think it's a good practice to follow a guide when learning something new.
 
+# What I learned
+During this project, I've picked up new skills for this project like configuring the buttons in my interface and also greying out the purchase button before the customer can complete their purchase. They will need to select the customer, and the window will go back to the basket, and also the purchase button will be available to click on.
+
+# How can it be improved?
+- Add more colour in each tab of the interface
+- Add a search funcation in the invoice area
+- To understand the grid system better
+- Try new types of tables in each tab
+
